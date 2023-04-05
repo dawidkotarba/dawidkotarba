@@ -1,16 +1,26 @@
-### Hi there 👋
+## 🔔 GitHub Stats
+<div align="left">
+  <img src="https://metrics.lecoq.io/dawidkotarba" />
+</div>
 
-<!--
-**dawidkotarba/dawidkotarba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+## 🌎 Most used languages
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawidkotarba&hide=html,css,javascript&theme=dark" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## 📈 GitHub Streak
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawidkotarba&theme=dark&hide_border=true&background=00000000" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dawidkotarba&&style=flat-square"/>
+</div>
+
+<br />
